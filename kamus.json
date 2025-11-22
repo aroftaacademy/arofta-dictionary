@@ -1,0 +1,37 @@
+{
+  "airport": [
+    {
+      "id": 1,
+      "indo": "Di mana loket check-in?",
+      "arab": "أَيْنَ مَكْتَبُ التَّسْجِيل؟"
+    }
+  ],
+  "umrah_hajj": [
+    {
+      "id": 1,
+      "indo": "Ke mana arah Masjidil Haram?",
+      "arab": "إِلَى أَيْنَ يَجِدُ الْمَسْجِدَ الْحَرَامَ؟"
+    }
+  ],
+  "shopping": [
+    {
+      "id": 1,
+      "indo": "Apakah ada diskon?",
+      "arab": "هَلْ هُنَاكَ خَصْمٌ؟"
+    }
+  ],
+  "hospital": [
+    {
+      "id": 1,
+      "indo": "Saya butuh dokter segera",
+      "arab": "أَحْتَاجُ إِلَى طَبِيبٍ فَوْرًا"
+    }
+  ],
+  "polite": [
+    {
+      "id": 1,
+      "indo": "Terima kasih banyak",
+      "arab": "شُكْرًا جَزِيلًا"
+    }
+  ]
+}
