@@ -33,5 +33,12 @@
       "indo": "Terima kasih banyak",
       "arab": "شُكْرًا جَزِيلًا"
     }
+ ],
+  "olahraga": [
+    {
+      "id": 1,
+      "indo": "Piala Dunia,
+      "arab": "كَأْسُ الْعَالَمِ"
+    }
   ]
 }
